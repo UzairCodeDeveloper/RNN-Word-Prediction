@@ -93,7 +93,7 @@ pip install numpy pandas scikit-learn category-encoders
 
 1.  Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone url
 
 2.  Open the notebook:
 
@@ -127,4 +127,5 @@ This notebook is designed to help understand:
 ## 👨‍💻 Author
 
 **Muhammad Uzair Zafar**\
-Computer Science \| Neural Networks & AI Enthusiast
+Computer Science \| AI Engineer
+
